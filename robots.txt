@@ -16,4 +16,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://117charlotteavenue.com/sitemap.xml
+Sitemap: https://dutracaue.github.io/117charlotteavenue/sitemap.xml
